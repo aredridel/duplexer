@@ -8,6 +8,8 @@ Creates a duplex stream
 
 Taken from [event-stream][7]
 
+Note: this is not the streams2 interface.
+
 ## duplex (writeStream, readStream)
 
 Takes a writable stream and a readable stream and makes them appear as a readable writable stream.
